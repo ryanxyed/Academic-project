@@ -1,5 +1,6 @@
 # Academic-project
 **Introduction**:
+
 The system design of the Emergency Vehicle Identification System outlines the 
 architecture, components, and workflow for real-time detection and traffic management. It 
 integrates CCTV cameras, a YOLOv8 object detection model, and a traffic control 
